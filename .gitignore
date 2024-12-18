@@ -1,0 +1,8 @@
+*.exe
+*.bin
+*.hex
+*.elf
+/build
+/CMakeFiles
+CmakeCache.txt
+/Ninja
